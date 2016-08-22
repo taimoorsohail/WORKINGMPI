@@ -1,0 +1,5 @@
+C PLANE SWITCHES:    XY_PLANE_comb        XY_PLANE_comb_2       ZX_PLANE_comb      ZX_PLANE_comb_2      PLANE_3D
+                       .true.                  .true.               .true.            .true.            .true.
+C CUTTING PLANE:        ipn               jpn1                jpn2               kpn1          kpn2
+                         0                 129                 113                172           8 
+
